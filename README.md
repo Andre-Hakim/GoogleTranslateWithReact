@@ -1,12 +1,12 @@
-#Using the Google Translate API With ReactJS and Axios.
+# Using the Google Translate API With ReactJS and Axios.
 
-##Introduction
+## Introduction
 
 This app uses Axios to send a request to google cloud translate API.
 Depending on the parameters of the request the response will contain the translated text.
 This app can switch languages from drop downs with the click of the react image.
 
-##Prerequirements
+## Prerequirements
 ```
 Node.js
 npm 
@@ -16,7 +16,7 @@ google-translate package (npm install google-translate --save)
 ```
 
 
-##.env
+## .env
 You will need to create a .env file for this  to work  with the API in the .env file.
 You can use the example from below in your .env file.
 
